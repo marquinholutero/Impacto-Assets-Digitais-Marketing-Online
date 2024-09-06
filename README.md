@@ -1,7 +1,7 @@
 # 🎯 Estudo de Casos: Impacto dos Assets Digitais e Estratégias de Marketing no Sucesso Online
 
 ## 📖 Descrição
-Este projeto foi desenvolvido no contexto do bootcamp de Analista de Mídia, com o objetivo de analisar o impacto dos **assets digitais** e das **estratégias de marketing** na presença online de uma empresa.  
+Este projeto foi desenvolvido no contexto do bootcamp de Analista de Mídia da SoulCode, com o objetivo de analisar o impacto dos **assets digitais** e das **estratégias de marketing** na presença online de uma empresa.  
 A empresa escolhida foi a **Doctoralia** 🏥, uma plataforma líder em conectar pacientes e profissionais de saúde.
 
 ## 👥 Equipe
